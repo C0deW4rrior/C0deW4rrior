@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @C0deW4rrior
 - 👀 I’m interested in Front-End development
-- 🌱 I have completed HTML and CSS courses for responsive web design, as well as the Javascript Algorithms and Data Structures
+- 🌱 I have completed HTML and CSS courses for responsive web design, as well as the Javascript Algorithms and Data Structures course
 - 🤓 Now studying Angular, AI and Phyton.
 - 💞️ I’m looking to collaborate on some projects in the near future working remotely
 - 📫 How to reach me on Twitter @Nicolas16470738
